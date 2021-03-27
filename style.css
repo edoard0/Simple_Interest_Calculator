@@ -1,0 +1,31 @@
+body {background-color:black;}
+h1{color:grey;
+text-align:center;}
+
+.container {
+  margin:0 auto;
+  width: 500px;
+  clear: both;
+  background-color:white;
+   border-radius:10px;
+}
+
+form{
+    padding:40px;
+}
+
+label { 
+    display: inline-block; 
+    width: 110px; 
+    text-align: left; }
+
+footer{
+    padding-left:20px;
+    padding-bottom:30px;
+    
+}
+
+
+
+
+

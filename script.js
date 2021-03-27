@@ -1,6 +1,7 @@
 function check(input) {
     if (input.value <= 0) {
       alert('The number must  be greater than zero!');
+      input.value=input.defaultValue;  
     } else {
       // input is fine -- reset the error message
       input.setCustomValidity('');
